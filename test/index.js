@@ -1,7 +1,7 @@
 'use strict';
 
 import test from 'tape';
-import getAllPropertyNames from './index.js';
+import getAllPropertyNames from '../src/index.js';
 
 class Foo {
 	foo() {}
