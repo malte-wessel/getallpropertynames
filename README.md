@@ -29,9 +29,7 @@ class Bar {
 let bar = new Bar();
 
 getAllPropertyNames(bar); 
-// ['constructor', 'bar', 'bar2', 'foo', 'foo2', 'toString', 
-// 'toLocaleString', 'valueOf', 'hasOwnProperty', 'isPrototypeOf', 
-// 'propertyIsEnumerable', '__defineGetter__', '__lookupGetter__', 
-// '__defineSetter__', '__lookupSetter__', '__proto__']
+// ['constructor', 'bar', 'foo', 'toString', 'toLocaleString', 
+// 'valueOf', 'hasOwnProperty', 'isPrototypeOf', ... ]
 
 ````
