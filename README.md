@@ -22,7 +22,7 @@ class Foo {
     foo() {}
 }
 
-class Bar {
+class Bar extends Foo {
     bar() {}
 }
 
