@@ -3,7 +3,7 @@ getAllPropertyNames
 
 Lightweight config loader.
 
-[![Travis](https://img.shields.io/travis/malte-wessel/getallpropertynames.svg?style=flat-square)](https://travis-ci.org/malte-wessel/superconfig)
+[![Travis](https://img.shields.io/travis/malte-wessel/getallpropertynames.svg?style=flat-square)](https://travis-ci.org/malte-wessel/getallpropertynames)
 [![NPM](https://img.shields.io/badge/npm-getallpropertynames-brightgreen.svg?style=flat-square)]()
 
 
